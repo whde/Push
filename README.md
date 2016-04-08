@@ -5,4 +5,4 @@
 - 填写获取到手机的Device Token
 - 填写推送的内容
 - 点击发送
-[](https://raw.githubusercontent.com/whde/Push/master/界面.png)
+![](https://raw.githubusercontent.com/whde/Push/master/界面.png)
